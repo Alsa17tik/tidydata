@@ -24,6 +24,6 @@ Variables were assigned a more descriptives names.
 
 #create new tidy dataset from the previous step
 As the last step new dataet new dataset called "tidydata" was created using cbind() function.
-Group by and summarize_all was used to summarize the mean. LAst but not least data was written into table named tidydata.
+Group by and summarize_all was used to summarize the mean. Last but not least the data was written into table named "tidydata" as text file with .txt file extension
 This data was saved under the same directory as the code in the folder "data". "tidydata" is then shared on github repo "tidydata"
 together with the code.

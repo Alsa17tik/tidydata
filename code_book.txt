@@ -1,0 +1,29 @@
+Tidy data set description
+
+The variables in the tidy data are:
+
+180 rows and 68 columns. Each row has mean variables for each subject and each activity.
+
+However, only variables estimated from mean and standard deviation were kept in tidydata.
+
+mean(): Mean value
+std(): Standard deviation
+The data were averaged based on subject and activity group.
+Activity labels has 6 value as shown below.
+
+WALKING
+WALKING_UPSTAIRS
+WALKING_DOWNSTAIRS
+SITTING
+STANDING
+LAYING
+
+The tidy data contains 68 columns and 180 observations.
+
+activitylabel-->see headings of the tidydata table
+
+variable units are:
+
+Activity variable =  factor type
+Subject variable =  integer type
+All other variables = numeric type.

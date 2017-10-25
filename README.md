@@ -1,3 +1,4 @@
+This note is more or less following the steps of the run_analysis code. Please review it along side the code itself foe clarity. Thank you
 #Install required packages
 This section of the code installs required packages to run the code and test that it is 
 
